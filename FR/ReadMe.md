@@ -77,7 +77,7 @@ Il est important d'avoir la liste de vos ressources disponibles en cas de crise,
 Si votre infrastructure est compromise, il est nécessaire de prévoir un canal d'échange sécurisé non lié à votre infrastructure.
 Un bon exemple du risque d'utiliser une infrastructure compromise pour votre cellule de crise : [LDLC](https://www.lemagit.fr/actualites/252510426/LDLC-ce-precieux-indice-fourni-par-les-attaquants-de-Ragnar-Locker)
 
-![LDLC](FR/Images/LDLC.png)
+![LDLC](Images/LDLC.png)
 
 _Il est possible de louer des salles dédiées pour les échanges sur des durées courtes._
 
@@ -221,7 +221,7 @@ Ainsi, il est possible d'avoir deux copies de la sauvegarde sur disques durs si 
 #### Une sauvegarde hors site
 L'idée derrière cette requête est d'avoir une sauvegarde stockée en dehors de votre bâtiment qui contient la donnée principale afin de se prémunir des risques tel que les incendies (ex: [OVH](https://www.developpez.com/actu/313910/Incendie-OVH-plus-d-un-millier-de-sauvegardes-ne-seront-probablement-pas-recuperables-admet-OVHcloud/) ).
 
-![OVH](FR/Images/OVH.png)
+![OVH](Images/OVH.png)
 
 Bien que ce ne soit pas une solution recommandée, une sauvegarde dans le cloud, à défaut d'un coffre-fort, est une solution.
 
