@@ -77,7 +77,7 @@ It is important to have a list of your available resources in the event of a cri
 If your infrastructure is compromised, it is necessary to provide a secure exchange channel unrelated to your infrastructure.
 A good example of the risk of using compromised infrastructure for your crisis unit: [LDLC](https://www.lemagit.fr/actualites/252510426/LDLC-ce-precieux-indice-fourni-par-les-attaquants-de-Ragnar-Locker)
 
-![LDLC](FR/Images/LDLC.png)
+![LDLC](Images/LDLC.png)
 
 _It is possible to rent dedicated rooms for discussions over short periods of time._
 
@@ -207,7 +207,7 @@ Basic rule and the minimum expected for an infrastructure, the 3-2-1 rule stipul
 * store on two different supports
 * including an outsourced off-site backup
 
-![321rule](FR/Images/3-2-11.gif)
+![321rule](Images/3-2-11.gif)
 
 ### Explanations
 #### Three copies
@@ -221,7 +221,7 @@ Thus, it is possible to have two copies of the backup on hard disks if both are 
 #### Offsite Backup
 The idea behind this request is to have a backup stored outside your building which contains the main data in order to protect against risks such as fires (ex: [OVH](https://www.developpez.com/actu/313910/Incendie-OVH-plus-d-un-millier-de-sauvegardes-ne-seront-probablement-pas-recuperables-admet-OVHcloud/) ).
 
-![OVH](FR/Images/OVH.png)
+![OVH](Images/OVH.png)
 
 Although not a recommended solution, a cloud backup, if you don't have a vault, is a solution.
 
