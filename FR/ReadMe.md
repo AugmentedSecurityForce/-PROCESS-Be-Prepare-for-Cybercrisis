@@ -106,8 +106,8 @@ Avoir à disposition des bloqueurs en écriture est un plus.
 Distribution Linux live italienne gérée par Giovanni "Nanni" Bassetti. Le projet a débuté en 2008 en tant qu'environnement favorisant la criminalistique numérique et la réponse aux incidents, avec plusieurs outils connexes préinstallés.
 
 ### TSURUGI Linux
-Tsurugi Linux is a DFIR open source project that is and will be totally free, independent, without involving any commercial brand
-Our main goal is share knowledge and "give back to the community"
+Tsurugi Linux est un projet DFIR open source qui est et sera totalement gratuit, indépendant, sans implication de marque commerciale.
+Notre objectif principal est de partager des connaissances et de "rendre à la communauté".
 
 ### Scripts
 #### Forensicator
